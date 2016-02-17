@@ -1,5 +1,7 @@
 # tmux shortcuts & cheatsheet
 
+(also see https://danielmiessler.com/study/tmux/)
+
 start new:
 
     tmux
